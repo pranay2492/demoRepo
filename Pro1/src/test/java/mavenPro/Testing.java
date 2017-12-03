@@ -6,6 +6,10 @@ import org.junit.Test;
 
 public class Testing {
 
+	public void show()
+	{
+	System.out.println("Git done");
+	}
 	@Test
 	public void pass()
 	{
@@ -24,4 +28,5 @@ public class Testing {
 		
 	}
 
+	
 }
