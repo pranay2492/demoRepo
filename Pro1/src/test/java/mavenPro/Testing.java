@@ -8,7 +8,7 @@ public class Testing {
 
 	public void show()
 	{
-	System.out.println("Git done");
+	//System.out.println("Git done");
 	}
 	@Test
 	public void pass()
